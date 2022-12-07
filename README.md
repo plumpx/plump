@@ -2,7 +2,7 @@
 A private developer based in the United States. I started programming back in 2009 with C/Lua. I quickly learned C was not the language to begin with, and started learning Python but soon switch to Java/JS. I also went to school to learn to program, however, as most of us know that experience didn't result in any growth. While in school 🥱 I decided to double major in Criminal Justice. I joined GitHub back in 2020, *on this account*, but only started to use it this year 2022. I plan to move all my private work here as well as begin public projects. If you have any suggestions or ideas feel free to contact me via Email or Discord.
 
 ## 🧐 About Me
-- 🌱 I’m currently learning [![C++](https://img.shields.io/badge/-CPP-00599C?style=for-the-badge&logo=cplusplus&logoColor=ffffff)](https://codewithmosh.com/) [![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=ffffff)](https://codewithmosh.com/)
+- 🌱 I’m currently learning [![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=ffffff)](https://codewithmosh.com/) [![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=ffffff)](https://codewithmosh.com/)
 
 - 👨‍💻 I regulary code in [![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org/en/)
 

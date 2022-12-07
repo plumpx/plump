@@ -6,9 +6,10 @@ A private developer based in the United States. I started programming back in 20
 
 - 👨‍💻 I regulary code in [![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org/en/)
 
-- 📫 How to reach me 
+- 📫 **How to reach me**
 [![Discord](https://img.shields.io/badge/-%40plump%238332-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/780514956424642580) 
 [![Gmail Badge](https://img.shields.io/badge/-Email-C14438?style=for-the-badge&logo=minutemailer&logoColor=ffffff)](mailto:admin@plumps.net)
+<br><sub>*Discord is the fastest way to contact me!*</sub>	
 
 
 ## Operating System & Tools

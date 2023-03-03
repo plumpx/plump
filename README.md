@@ -13,6 +13,7 @@ A private developer based in the United States. I started programming back in 20
 
 
 ## Operating System & Tools
+[![MacOS](https://img.shields.io/badge/macOS-13.2.1-dbad58?style=flat-square&logo=Apple&logoColor=dbad58)](https://www.apple.com/macos/ventura/)
 [![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows11&logoColor=0078D6)](https://www.microsoft.com/en-us/windows/windows-11)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04.2-E95420?style=flat-square&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/)
 
@@ -33,7 +34,7 @@ A private developer based in the United States. I started programming back in 20
 
 ### Frequently Used Modules
 [![Discordjs](https://img.shields.io/badge/Discord.js-14.7.1-5865F2?style=flat-square&logo=nodedotjs&logoColor=8187C9)](https://discord.js.org/)
-[![Canvas](https://img.shields.io/badge/Jimp-0.16.2-FC5359?style=flat-square&logo=nodedotjs&logoColor=FC5359)](https://www.npmjs.com/package/jimp)
+[![Canvas](https://img.shields.io/badge/Canvas-1.8.3-FC5359?style=flat-square&logo=nodedotjs&logoColor=FC5359)](https://www.npmjs.com/package/canvasjs)
 
 ## Stats
 
@@ -44,9 +45,9 @@ A private developer based in the United States. I started programming back in 20
 
 > ✅ Open for Hire
  > 
-> 📜 0 Public Repositories 
+> 📜 1 Public Repositories (AppleSupport Wiki / Information)
  > 
-> 🔑 3 Private Repositories  
+> 🔑 4 Private Repositories  
  > 
 
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=plumpx&theme=dark&hide_border=true" width = 400>

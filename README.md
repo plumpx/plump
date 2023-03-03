@@ -1,5 +1,13 @@
-### 👋 Hi, I'm plump
-A private developer based in the United States. I started programming back in 2009 with C/Lua. I quickly learned C was not the language to begin with, and started learning Python but soon switch to Java/JS. I also went to school to learn to program, however, as most of us know that experience didn't result in any growth. While in school 🥱 I decided to double major in Criminal Justice. I joined GitHub back in 2020, *on this account*, but only started to use it this year 2022. I plan to move all my private work here as well as begin public projects. If you have any suggestions or ideas feel free to contact me via Email or Discord.
+### Introduction
+Hey there, fellow coders and curious minds! 👋🏼 Welcome to my humble abode on GitHub! 🏠 I'm a private developer based in the United States 🇺🇸, and I've been coding up a storm since 2009. 💻
+
+My first language love was C and Lua, but don't hold that against me. 😅 I quickly learned that they weren't the best starting points. So, I switched to Python 🐍, and soon added Java ☕ and JavaScript 🌐 to my coding arsenal.
+
+I went to school to learn to code, but let's be real, nothing beats hands-on experience. While in school, I decided to spice things up a bit and double-majored in Criminal Justice 👮‍♀️. I figured, why not add some thrill to my life, right?
+
+I joined GitHub back in 2020, but it wasn't until 2022 that I decided to actually use it. And now, I'm hooked! 🎣 I plan on moving all of my private work here, and I'm excited to dive into some public projects. 🚀
+
+So, if you've got any bright ideas or just want to say hi, hit me up via email or Discord. Let's create something amazing together! 💡 And if you have any good coding jokes, feel free to share them with me. I'm always in the mood for a good laugh. 😂 Thanks for stopping by!
 
 ## 🧐 About Me
 - 🌱 I’m currently learning [![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=ffffff)](https://codewithmosh.com/) [![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=ffffff)](https://codewithmosh.com/)
